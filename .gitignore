@@ -1,0 +1,6 @@
+# Compilation trash
+*.o
+basedump
+
+# Vim
+tags
